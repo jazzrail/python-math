@@ -1,0 +1,5 @@
+{
+  "workbench.colorTheme": "Plastic",
+  "python.defaultInterpreterPath": "./myenv/bin/python",
+  "python.terminal.activateEnvironment": true
+}
